@@ -20,7 +20,7 @@ function App() {
         <input type="submit" name="btn4" value="4" onClick={(event) => click1(event)} />
         <input type="submit" name="btn5" value="5" onClick={(event) => click1(event)} />
         <input type="submit" name="btn6" value="6" onClick={(event) => click1(event)} />
-        <input type="submit" name="btn7" value="6" onClick={(event) => click1(event)} />
+        <input type="submit" name="btn7" value="7" onClick={(event) => click1(event)} />
       </div>
 
     </>
