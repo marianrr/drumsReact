@@ -38,3 +38,26 @@ input:active {
     border: 5px solid rgb(219, 43, 43);
     background-color: aliceblue;
 }
+
+@media (max-width: 505px) {
+
+    .container {
+        width: 98lvw;
+    }
+
+    input {
+        align-content: center;
+        text-align: center;
+        background-color: rgb(255, 255, 0);
+        width: 20%;
+        height: 20%;
+        margin: 4px;
+        border-radius: 5px;
+    }
+    
+    input:active {
+        border: 5px solid rgb(219, 43, 43);
+        background-color: aliceblue;
+    }
+
+}
