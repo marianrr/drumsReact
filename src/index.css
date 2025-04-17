@@ -42,7 +42,7 @@ input:active {
 @media (max-width: 505px) {
 
     .container {
-        width: 98lvw;
+        width: 98svw;
     }
 
     input {
