@@ -17,10 +17,10 @@ body {
 .container {
     align-content: center;
     text-align: center;
-    margin: 20lvh auto;
+    margin: 20svh auto;
     background-color: aqua; 
-    width: 60lvw;
-    height: 60lvh;
+    width: 60svw;
+    height: 60svh;
     border-radius: 5px;
 }
 
@@ -62,9 +62,7 @@ input:active {
     }
 
 
-    body {
-        height: 100svh;
-    }
+   
 
 
 }
