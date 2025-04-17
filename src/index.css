@@ -60,4 +60,10 @@ input:active {
         background-color: aliceblue;
     }
 
+
+    body {
+        height: 100svh;
+    }
+
+
 }
