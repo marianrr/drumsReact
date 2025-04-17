@@ -43,6 +43,7 @@ input:active {
 
     .container {
         width: 98svw;
+        height: 60svh;
     }
 
     input {
